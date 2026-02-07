@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, my name is Timo 👋
 
-<!--
-**timomt/timomt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 About Me
+I'm a **Computer Science student at HTWG Konstanz** with a focus on **Embedded Systems**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my repositories to see what I'm building and currently learning!
+
+## ⭐️ Special Interests
+**Linux**
+
+**Embedded Systems**
+- Rust
+- C++
+- ROS2
+- Microcontrollers
+
+**Parallel Computing**
+- OpenMP
+- OpenCL
+- OpenMPI
